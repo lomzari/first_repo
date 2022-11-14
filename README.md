@@ -1,2 +1,2 @@
 # Welcome to my first repo.
-### For learning purposes.
+### For learning.
